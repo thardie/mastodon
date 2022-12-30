@@ -21,7 +21,7 @@ module Mastodon
     end
 
     def suffix
-      ''
+      '+orcas2'
     end
 
     def to_a
